@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.oauth-client:google-oauth-client-java6:1.24.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client-java6/1.24.0-SNAPSHOT/google-oauth-client-java6-1.24.0-20171103.162935-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client-java6/1.24.0-SNAPSHOT/google-oauth-client-java6-1.24.0-20171103.162935-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client-java6/1.24.0-SNAPSHOT/google-oauth-client-java6-1.24.0-20171103.162935-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
